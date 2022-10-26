@@ -54,7 +54,7 @@ export default function Navbar() {
                 textDecorationColor: "#2cde80",
               }}
             >
-              <Link to="/blog">Blog</Link>
+              <Link to="/">Blog</Link>
             </Button>
             <Button
               variant={"link"}
@@ -119,7 +119,7 @@ export default function Navbar() {
                 textDecorationColor: "#2cde80",
               }}
             >
-              <Link to="/blog">Blog</Link>
+              <Link to="/">Blog</Link>
             </Button>
             <Button
               variant={"link"}
