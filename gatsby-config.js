@@ -21,18 +21,6 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Segment`,
-        short_name: `segment`,
-        start_url: `/`,
-        background_color: `#201038`,
-        theme_color: `#201038`,
-        display: `minimal-ui`,
-        icon: `src/assets/short_logo.png`, // This path is relative to the root of the site.
-      },
-    },
-    {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
