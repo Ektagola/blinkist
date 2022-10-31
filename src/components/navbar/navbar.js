@@ -27,7 +27,6 @@ export default function Navbar() {
             to="/"
             title="Choc Home Page"
             display="flex"
-            alignItems="center"
           >
             <Image
               src={BusinessLogo}
